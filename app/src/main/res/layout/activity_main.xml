@@ -11,7 +11,9 @@
     tools:context="com.zhergiuz.simplechat.MainActivity">
 
     <TextView
+        android:id="@+id/TextViewFireBase"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Halo Dunia" />
+
 </RelativeLayout>
